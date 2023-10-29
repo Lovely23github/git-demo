@@ -1,1 +1,3 @@
-Hii, This is the new course related to java Programming
+Hii, This is the new course related to java Programming.
+
+Java is strictly typed language.
